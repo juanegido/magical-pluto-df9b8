@@ -2,7 +2,7 @@
 title: McDonalds
 sections:
   - type: features_section
-    title: What you’ll experience
+    title: jj you’ll experience
     features:
       - content: >-
           Event is a responsive theme for online events, meetups, conferences
