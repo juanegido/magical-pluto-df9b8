@@ -64,7 +64,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Hello there
+      - title: Hands-On Workshops
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
