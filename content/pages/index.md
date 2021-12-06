@@ -210,7 +210,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
-  
   - type: grid_section
     title: What People are Saying
     subtitle: Previous event attendees
