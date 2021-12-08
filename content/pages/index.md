@@ -49,7 +49,7 @@ sections:
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
-        media_width: thirty-three
+        media_width: sixty
       - title: Technology Discussion Rooms for All Attendees
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
