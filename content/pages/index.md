@@ -17,7 +17,7 @@ sections:
           encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
         media_position: right
-        media_width: thirty-three
+        media_width: fourty
     feature_padding_vert: large
     align: center
     padding_top: large
