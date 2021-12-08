@@ -12,9 +12,10 @@ sections:
           it on the web within a month.
         video_embed_html: >-
           <iframe width="800" height="400"
-          src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          src="https://www.youtube.com/embed/SlWMhtruJic?autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fmcdonaldslegends.com&widgetid=1"
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+          encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: right
         media_width: sixty
         align: left
