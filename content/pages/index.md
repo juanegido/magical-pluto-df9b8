@@ -11,7 +11,7 @@ sections:
           Crazy’ campaign and approached digital agency Matter Supply to launch
           it on the web within a month.
         video_embed_html: >-
-          <iframe width="560" height="315"
+          <iframe width="800" height="315"
           src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
