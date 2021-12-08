@@ -1,6 +1,40 @@
 ---
 title: McDonalds
 sections:
+  - type: features_section
+    features:
+      - title: Hands-On Workshops
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
+          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
+          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+        image: images/feature-1.jpg
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: sixty
+      - title: High-quality talks from field experts followed by Q&As
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
+          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
+          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        image: images/feature-2.jpg
+        image_alt: Feature 2 placeholder image
+        media_position: left
+        media_width: sixty
+      - title: Technology Discussion Rooms for All Attendees
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
+          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
+          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
+          semper.
+        image: images/feature-3.jpg
+        image_alt: Feature 3 placeholder image
+        media_position: right
+        media_width: sixty
+    feature_padding_vert: large
+    align: center
+    padding_top: none
+    background_color: none
   - type: hero_section
     title: Inspire. Create. Build.
     subtitle: Conference for Creative People
@@ -61,40 +95,6 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: none
-  - type: features_section
-    features:
-      - title: Hands-On Workshops
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
-        image: images/feature-1.jpg
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: sixty
-      - title: High-quality talks from field experts followed by Q&As
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
-        image: images/feature-2.jpg
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: sixty
-      - title: Technology Discussion Rooms for All Attendees
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
-        image: images/feature-3.jpg
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    padding_top: none
     background_color: none
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
