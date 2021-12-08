@@ -11,9 +11,11 @@ sections:
           Crazy’ campaign and approached digital agency Matter Supply to launch
           it on the web within a month.
         video_embed_html: >-
-          <iframe width="640" height="360" src="k" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="640" height="360"
+          src="https://www.youtube.com/embed/SlWMhtruJic?autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fmcdonaldslegends.com&widgetid=1k"
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+          encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: right
         media_width: sixty
     feature_padding_vert: large
