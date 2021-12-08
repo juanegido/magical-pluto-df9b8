@@ -18,7 +18,7 @@ sections:
           allowfullscreen></iframe>
         media_position: right
         media_width: sixty
-        align: center
+        align: left
     feature_padding_vert: large
     align: center
     padding_top: large
