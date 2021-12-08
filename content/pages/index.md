@@ -22,6 +22,23 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+  - type: cta_section
+    title: Current price is only $49. The price will increase soon!
+    actions:
+      - label: Get tickets
+        url: /thank-you
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/cta-background.png
+    background_image_opacity: 50
   - type: features_section
     features:
       - title: High-quality talks from field experts followed by Q&As
@@ -108,23 +125,6 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - type: cta_section
-    title: Current price is only $49. The price will increase soon!
-    actions:
-      - label: Get tickets
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/cta-background.png
-    background_image_opacity: 50
   - type: grid_section
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
